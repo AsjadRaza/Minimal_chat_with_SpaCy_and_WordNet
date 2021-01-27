@@ -1,0 +1,1 @@
+# Minimal_chat_with_SpaCy_and_WordNet
